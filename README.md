@@ -1,2 +1,3 @@
-# SQL-Data-cleaning_extraction
-Optimized queries
+# Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+
+
